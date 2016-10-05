@@ -1,0 +1,1 @@
+very basic python implementation of [newhope](https://cryptojedi.org/papers/newhope-20160328.pdf) for experimenting
